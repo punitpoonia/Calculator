@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(32, 29, 29);
+    background-color: rgb(3, 3, 41);
 }
 .Calculator{
     height:450px;
@@ -7,8 +7,8 @@ body{
     border-radius:5%;
     margin-top:5%;
     margin-left:30%;
-    color:rgb(12, 11, 11);
-    background-color:#0f0e0ea3;
+    color:rgb(196, 41, 14);
+    background-color:#5391cca3;
     font-size:20px;
     text-align: center;
 }
