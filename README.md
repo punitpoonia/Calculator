@@ -1,1 +1,1 @@
-# Calculator
+Assignment on javascipt
